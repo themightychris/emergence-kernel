@@ -1,0 +1,22 @@
+{
+  "description": "Realtime kernel for emergence",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "flatiron": "0.3.2",
+    "which": "1.0.5",
+    "forever-monitor": "1.1.0"
+  },
+  "devDependencies": {
+    "cli-easy": "0.1.0",
+    "vows": "0.6.1"
+  },
+  "scripts": {
+    "test": "vows --spec",
+    "start": "node app.js"
+  },
+  "author": "Chris Alfano",
+  "homepage": "http://emr.ge",
+  "name": "emergence-kernel",
+  "main": "app.js"
+}
