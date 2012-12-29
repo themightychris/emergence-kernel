@@ -9,6 +9,7 @@ flatiron.app = {
 	,directories: {
 		'#SERVICES': '#ROOT/services'
 		,'#SITES': '#ROOT/sites'
+		,'#COREFS': '#ROOT/core-fs'
 	}
 };
 

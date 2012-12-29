@@ -5,7 +5,7 @@
   "dependencies": {
     "flatiron": "0.3.2",
     "which": "1.0.5",
-    "forever-monitor": "1.1.0"
+    "mysql": "2.0.0-alpha5"
   },
   "devDependencies": {
     "cli-easy": "0.1.0",
